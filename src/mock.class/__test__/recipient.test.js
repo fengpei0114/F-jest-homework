@@ -1,5 +1,7 @@
-import Recipient from "../Recipient";
-
+import Recipient from "../recipient";
+/*
+    TODO 17-18 already have been done????????????
+ */
 describe("acceptInjection", () => {
   beforeEach(() => {
     jest.resetModules();
